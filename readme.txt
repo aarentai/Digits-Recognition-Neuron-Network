@@ -1,4 +1,9 @@
-±àÒë»·¾³¾ùÎªVisual Studio
-network.cpp network.hÎªbpÉñ¾­ÍøÂçµÄÔ´´úÂë£¬±àÒëĞèÒªIntelµÄmkl¿â
-knn.cpp knnm.cpp wknn.cppÎªknnËã·¨¼°ÓÅ»¯°æµÄÔ´´úÂë
-ËùÓĞ³ÌĞò¾ùÊä³öµ½submit.csv
+ç¼–è¯‘ç¯å¢ƒå‡ä¸ºVisual Studio
+network.cpp network.hä¸ºbpç¥ç»ç½‘ç»œçš„æºä»£ç ï¼Œç¼–è¯‘éœ€è¦Intelçš„mklåº“
+knn.cpp knnm.cpp wknn.cppä¸ºknnç®—æ³•åŠä¼˜åŒ–ç‰ˆçš„æºä»£ç 
+æ‰€æœ‰ç¨‹åºå‡è¾“å‡ºåˆ°submit.csv
+
+The compilation environment is Visual Studio.
+network.cpp and network.h are bp neural network source code, the compiler needs Intel's mkl library.
+knn.cpp, knnm.cpp and wknn.cpp are knn algorithm and optimized version of the source code respectively.
+All programs output to submit.csv
