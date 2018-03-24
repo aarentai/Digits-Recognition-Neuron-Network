@@ -1,6 +1,5 @@
 The compilation environment is Visual Studio.
 network.cpp and network.h are bp neural network source code, the compiler needs Intel's mkl library.
-knn.cpp, knnm.cpp and wknn.cpp are knn algorithm and optimized version of the source code respectively.
 All programs output to submit.csv
 
 Introduction
